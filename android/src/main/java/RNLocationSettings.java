@@ -13,7 +13,7 @@ public final class RNLocationSettings extends ReactContextBaseJavaModule {
   private ReactApplicationContext mContext;
   private static final String TAG = "RNLocationSettings";
 
-  public RCTDropDetection(ReactApplicationContext reactContext) {
+  public RNLocationSettings(ReactApplicationContext reactContext) {
     super(reactContext);
     mContext = reactContext;
   }
